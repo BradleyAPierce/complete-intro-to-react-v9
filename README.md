@@ -1,18 +1,20 @@
-<p align="center"><a href="fem"><img alt="react logo" title="React" src="./public/images/course-icon.png" /></a></p>
+# Complete Intro to React v9
+
+[![React logo](./public/images/course-icon.png "React")][fem]
 
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
 
 [Please click here][course] to head to the course website.
 
-# Issues and Pull Requests
+## Issues and Pull Requests
 
 Please file issues and open pull requests here! Thank you! For issues with project files, either file issues on _this_ repo _or_ open a pull request on the projects repos. This repo itself is the course website.
 
-# Project Files
+## Project Files
 
 [Please go here][project] for the project files.
 
-# License
+## License
 
 The content of this workshop is licensed under CC-BY-NC-4.0. Feel free to share freely but do not resell my content.
 
